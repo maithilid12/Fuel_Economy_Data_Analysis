@@ -80,7 +80,7 @@ There are three folders:
 1. Data Gathering - Fuel Economy data was gathered for the years 2008 and 2018 
 2. Data Assessment - Data was assessed for quality issues
 3. Data Cleaning 
-    - Dropping extraneaous columns
+    - Dropping extraneous columns
     - Renaming columns for consistency
     - Filtering
     - Droping nulls
@@ -88,7 +88,7 @@ There are three folders:
     - Inspecting and correcting the data types
 4. Exploratory Visuals - Visually assessing the distribution of features and their correlation
 5. Drawing Conclusions
-   - Total 5 questions were construction and answered using a data driven approach
+   - Total 5 questions were constructed and answered using a data driven approach
 
 # Results
 **1. Are more unique models using alternative sources of fuel? By how much?**
