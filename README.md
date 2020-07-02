@@ -10,6 +10,7 @@
 7. Acknowledgements
 
 # Introduction
+
 The files being utilized for analysis are: all_alpha_08.csv and all_alpha_18.csv and can be found [here](https://www.fueleconomy.gov/feg/download.shtml). The information provided is a result of vehicle testing done by the U.S. Environmental Protection Agency, Office of Mobile Sources, National Vehicle and Fuel Emissions Laboratory. I'll also answer the following questions which I have constructed after initial assessment of the data:
 
 1. Are more unique models using alternative sources of fuel? By how much?
@@ -18,7 +19,8 @@ The files being utilized for analysis are: all_alpha_08.csv and all_alpha_18.csv
 4. What features are associated with better fuel economy?
 5. For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
 
-![Fuel-Image](images/fuel-image.png "Source: FreshMagazine")
+![Fuel-Image](Images/fuel-image.jpg)
+<p align = "center"> (Source: Shared Mobility News) </p>
 
 # Prerequisites
 1. Pandas (for data loading and analysis)
